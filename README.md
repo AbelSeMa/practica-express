@@ -9,6 +9,7 @@ que implica el uso del framework y las bases de datos de MongoBD.
 
 Para desplegar el proyecto:
 1º - npm install
+2º - Crear una cuenta en MongoDB
 
 
 |Guía  |Completada  |
