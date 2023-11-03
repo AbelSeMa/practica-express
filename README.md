@@ -7,10 +7,7 @@ que implica el uso del framework y las bases de datos de MongoBD.
 
 [Guia de express y desafios del projecto](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)
 
-Para desplegar el proyecto:
-1º - npm install
-2º - Crear una cuenta en MongoDB
-
+- Progreso del proyecto:
 
 |Guía  |Completada  |
 |---------|---------|
